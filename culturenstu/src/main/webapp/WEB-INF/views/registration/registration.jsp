@@ -16,7 +16,7 @@
 		<sf:hidden path="id" />
 		<sf:hidden path="enabled" value="false" />
 		<sf:hidden path="role" value="Registered" />
-		<sf:hidden path="category" value="11" />
+		<sf:hidden path="category" value="1" />
 		<div class="ui two fields">
 			<div class="field">
 				<label>Full Name</label>

@@ -69,7 +69,7 @@
 				<i class="map marker icon"></i>
 				<div class="content">
 					<a class="header">Address</a>
-					<div class="description">${registeredModel.adress}.</div>
+					<div class="description">${regDet.address}.</div>
 				</div>
 			</div>
 			<div class="item">

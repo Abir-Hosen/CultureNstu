@@ -78,7 +78,6 @@
 			<version>5.2.7.Final</version>
 		</dependency>
 
-
 		<!-- Database Connection Pooling -->
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-dbcp2 -->
 		<dependency>
@@ -89,7 +88,7 @@
 				<exclusion>
 					<groupId>commons-logging</groupId>
 					<artifactId>commons-logging</artifactId>
-				</exclusion>
+				</exclusion> 
 			</exclusions>
 		</dependency>
 
